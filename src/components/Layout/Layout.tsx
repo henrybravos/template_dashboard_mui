@@ -105,10 +105,10 @@ export const Layout = ({ children, title }: ILayout) => {
                                 color={secondary.main}
                                 fontWeight="bold"
                             >
-                                José Luis Ramirez
+                                usuario definido
                             </Typography>
                             <Typography component="p" variant="body2" color={secondary.main}>
-                                info@conit.pe
+                                info@correo.com
                             </Typography>
                         </Box>
                     </IconButton>

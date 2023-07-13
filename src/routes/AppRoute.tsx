@@ -34,7 +34,7 @@ export const router = createBrowserRouter([
                 path: PATH_HOME,
                 element: (
                     <PrivateRouter>
-                        <Layout title="Jolco - Inicio">
+                        <Layout title="app - Inicio">
                             <IndexDashboard />
                         </Layout>
                     </PrivateRouter>
@@ -44,7 +44,7 @@ export const router = createBrowserRouter([
                 path: PATH_INSTITUTION_LIST,
                 element: (
                     <PrivateRouter>
-                        <Layout title="Jolco - Instituciones">
+                        <Layout title="app - Instituciones">
                             <IndexDashboard />
                         </Layout>
                     </PrivateRouter>
