@@ -1,0 +1,15 @@
+export const PATH_HOME = "/"
+export const PATH_INSTITUTION_LIST = "/simulator/institution"
+export const PATH_QUIZ_LIST = "/simulator/quiz"
+export const PATH_QUIZ_ADD = "/simulator/quiz/add"
+
+export const PATH_MEMBERSHIP_LIST = "/membership"
+export const PATH_MEMBER_LIST = "/member"
+
+export const PATH_WRITTEN = "/written"
+export const PATH_LAWS = "/laws"
+export const PATH_LINKS = "/links"
+export const PATH_ADVISER = "/adviser"
+export const PATH_REPORT = "/report"
+export const PATH_SETTING_USER = "/setting/user"
+export const PATH_SETTING_PAYMENT = "/setting/payment"
